@@ -1,0 +1,17 @@
+name: hyperRyPy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - geopandas
+  - rasterio
+  - scipy
+  - shapely
+  - h5py
+  - matplotlib
+  - requests
+  - ipython
+  - tkinter
